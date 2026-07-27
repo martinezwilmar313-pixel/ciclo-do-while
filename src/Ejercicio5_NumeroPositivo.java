@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejemplo5_NumeroPositivo {
+public class Ejercicio5_NumeroPositivo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int numero;

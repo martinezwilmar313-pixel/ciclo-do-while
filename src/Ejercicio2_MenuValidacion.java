@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejemplo2_MenuValidacion {
+public class Ejercicio2_MenuValidacion {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int opcion;

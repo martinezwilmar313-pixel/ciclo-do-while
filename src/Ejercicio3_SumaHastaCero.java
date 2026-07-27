@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejemplo3_SumaHastaCero {
+public class Ejercicio3_SumaHastaCero {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int numero, suma = 0;
